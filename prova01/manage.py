@@ -19,4 +19,5 @@ def main():
 
 
 if __name__ == '__main__':
-    main()
+    xau = "vamos ver agora"
+    return xau
